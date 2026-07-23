@@ -1,4 +1,3 @@
-/*   */
 
 class Solution {
     public String addBinary(String s1, String s2) {
