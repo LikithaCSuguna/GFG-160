@@ -59,10 +59,6 @@ GFG-160/
 * Build consistency through regular coding practice.
 * Prepare for coding interviews and placement opportunities.
 
-## Technologies Used
-
-* Java
-* IntelliJ IDEA / VS Code
 
 ## Progress
 
